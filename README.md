@@ -42,7 +42,7 @@ Full-stack geliştirme, Discord botları ve masaüstü uygulamaları gibi alanla
 Bir satış platformu. Kullanıcıların uygun fiyatlı hesaplar, sanal ürünler, ve kodlar almasına olanak tanır.
 </p>
 
-<h3 align="center">🔹 <a href="#">DCBB</a></h3>
+<h3 align="center">🔹 <a href="#">DCBB (DiscordBotBuilder)</a></h3>
 <p align="center">
 Kodlama bilgisi olmadan Discord botu oluşturmanı sağlayan bir platform. Sadece buton tıklama mantığıyla çalışan arayüzü sayesinde herkes kendi botunu yapabilir!
 </p>
@@ -67,8 +67,8 @@ Discord için geliştirdiğim özel botlar. Sunucuların aktif kalmasını sağl
 
 <p align="center">
 📌 <strong>Discord:</strong> <a href="https://discord.gg/jJtqR9dfxU">Sunucu</a> <br>
-📌 <strong>Instagram:</strong> <a href="https://instagram.com/1683ayberkk">@1683ayberkkn</a> <br>
-📌 <strong>X (Twitter):</strong> <a href="#">@kullanıcıadın</a>  
+📌 <strong>Instagram:</strong> <a href="https://instagram.com/1683ayberkk">@1683ayberkk</a> <br>
+📌 <strong>X (Twitter):</strong> <a href="https://x.com/1683ayberkk">@1683ayberkk</a>  
 </p>
 
 <p align="center">
