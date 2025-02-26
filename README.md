@@ -12,25 +12,25 @@ Full-stack geliştirme, Discord botları ve masaüstü uygulamaları gibi alanla
 <h3 align="center">💻 PROGRAMLAMA DİLLERİ</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>  
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>  
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>  
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>  
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>  
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>  
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>  
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>  
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>  
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>  
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&color=239120"/>  
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&color=00599C"/>  
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&color=A8B9CC"/>  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&color=339933"/>  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&color=3776AB"/>  
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&color=E34F26"/>  
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&color=1572B6"/>  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&color=F7DF1E"/>  
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&color=007396"/>  
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&color=4479A1"/>  
 </p>
 
 <h3 align="center">📦 KULLANDIĞIM MODÜLLER & TEKNOLOJİLER</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>  
-  <img src="https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>  
-  <img src="https://img.shields.io/badge/-Discord.js-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js"/>  
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>  
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&color=000000"/>  
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&color=47848F"/>  
+  <img src="https://img.shields.io/badge/Discord.js-7289DA?style=for-the-badge&color=7289DA"/>  
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&color=47A248"/>  
 </p>
 
 ---
