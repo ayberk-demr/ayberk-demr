@@ -37,18 +37,18 @@ Full-stack geliştirme, Discord botları ve masaüstü uygulamaları gibi alanla
 
 <h2 align="center">📌 ÜZERİNDE ÇALIŞTIĞIM PROJELER</h2>
 
+<h3 align="center">UCUZHESABIM</h3>
 <p align="center">
-<strong>🔹 <a href="#">UCUZHESABIM</a></strong><br>
 Bir satış platformu. Kullanıcıların uygun fiyatlı hesaplar alıp satmasına olanak tanır.
 </p>
 
+<h3 align="center">DCBB</h3>
 <p align="center">
-<strong>🔹 <a href="#">DCBB</a></strong><br>
 Kodlama bilgisi olmadan Discord botu oluşturmanı sağlayan bir platform. Sürükle-bırak mantığıyla çalışan arayüzü sayesinde herkes kendi botunu yapabilir!
 </p>
 
+<h3 align="center">PYTE VE UPTIME BOT</h3>
 <p align="center">
-<strong>🔹 <a href="#">PYTE VE UPTIME BOT</a></strong><br>
 Discord için geliştirdiğim özel botlar. Sunucuların aktif kalmasını sağlamak ve çeşitli yönetimsel işlemleri kolaylaştırmak için tasarlandılar.
 </p>
 
