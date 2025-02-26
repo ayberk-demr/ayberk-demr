@@ -12,102 +12,25 @@ Full-stack geliştirme, Discord botları ve masaüstü uygulamaları gibi alanla
 <h3 align="center">💻 PROGRAMLAMA DİLLERİ</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&color=239120"/>  
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&color=00599C"/>  
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&color=A8B9CC"/>  
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&color=339933"/>  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&color=3776AB"/>  
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&color=E34F26"/>  
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&color=1572B6"/>  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&color=F7DF1E"/>  
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&color=007396"/>  
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&color=4479A1"/>  
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 <h3 align="center">📦 KULLANDIĞIM MODÜLLER & TEKNOLOJİLER</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&color=000000"/>  
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&color=47848F"/>  
-  <img src="https://img.shields.io/badge/Discord.js-7289DA?style=for-the-badge&color=7289DA"/>  
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&color=47A248"/>  
-</p>
-
----
-
-<h2 align="center">📌 ÜZERİNDE ÇALIŞTIĞIM PROJELER</h2>
-
-<h3 align="center">🔹 <a href="#">UCUZHESABIM</a></h3>
-<p align="center">
-Bir satış platformu. Kullanıcıların uygun fiyatlı hesaplar alıp satmasına olanak tanır.
-</p>
-
-<h3 align="center">🔹 <a href="#">DCBB</a></h3>
-<p align="center">
-Kodlama bilgisi olmadan Discord botu oluşturmanı sağlayan bir platform. Sürükle-bırak mantığıyla çalışan arayüzü sayesinde herkes kendi botunu yapabilir!
-</p>
-
-<h3 align="center">🔹 <a href="#">PYTE VE UPTIME BOT</a></h3>
-<p align="center">
-Discord için geliştirdiğim özel botlar. Sunucuların aktif kalmasını sağlamak ve çeşitli yönetimsel işlemleri kolaylaştırmak için tasarlandılar.
-</p>
-
----
-
-<h2 align="center">📫 BANA ULAŞIN</h2>
-
-<p align="center">
-📌 <strong>Discord:</strong> <a href="#">@kullanıcıadın</a> <br>
-📌 <strong>Instagram:</strong> <a href="#">@kullanıcıadın</a> <br>
-📌 <strong>X (Twitter):</strong> <a href="#">@kullanıcıadın</a>  
-</p>
-
-<p align="center">
-💬 Bana her zaman yazılım, projeler veya iş birlikleri hakkında mesaj atabilirsiniz. Yardımcı olmaktan mutluluk duyarım!  
-</p>
-
----
-
-<h2 align="center">📊 GITHUB İSTATİSTİKLERİM</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ayberk-demr&theme=darcula&show_icons=true&hide_border=false&count_private=false" alt="ayberk-demr's GitHub Stats"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=ayberk-demr&theme=darcula&show_icons=true&hide_border=false&count_private=false" alt="ayberk-demr's GitHub Stats"/>
-</p>
-<h1 align="center">👋 MERHABA, BEN AYBERK DEMİR!</h1>
-
-<p align="center">
-🚀 17 yaşında bir yazılım geliştiricisiyim. Küçük yaşlardan itibaren yazılıma olan ilgim sayesinde birçok farklı dili ve teknolojiyi öğrenme fırsatı buldum.  
-Full-stack geliştirme, Discord botları ve masaüstü uygulamaları gibi alanlarda projeler üretiyorum. Sürekli yeni şeyler öğrenmek ve kendimi geliştirmek benim için bir tutku!  
-</p>
-
----
-
-<h2 align="center">🛠️ BİLDİĞİM DİLLER VE TEKNOLOJİLER</h2>
-
-<h3 align="center">💻 PROGRAMLAMA DİLLERİ</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>  
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>  
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>  
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>  
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>  
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>  
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>  
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>  
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>  
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>  
-</p>
-
-<h3 align="center">📦 KULLANDIĞIM MODÜLLER & TEKNOLOJİLER</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>  
-  <img src="https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>  
-  <img src="https://img.shields.io/badge/-Discord.js-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js"/>  
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>  
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Discord.js-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
