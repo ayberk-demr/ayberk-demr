@@ -1,4 +1,4 @@
-<h1 align="center">👋 Merhaba, ben Ayberk Demir!</h1>
+<h1 align="center">👋 MERHABA, BEN AYBERK DEMİR!</h1>
 
 <p align="center">
 🚀 17 yaşında bir yazılım geliştiricisiyim. Küçük yaşlardan itibaren yazılıma olan ilgim sayesinde birçok farklı dili ve teknolojiyi öğrenme fırsatı buldum.  
@@ -7,9 +7,9 @@ Full-stack geliştirme, Discord botları ve masaüstü uygulamaları gibi alanla
 
 ---
 
-<h2 align="center">🛠️ Bildiğim Diller ve Teknolojiler</h2>
+<h2 align="center">🛠️ BİLDİĞİM DİLLER VE TEKNOLOJİLER</h2>
 
-<h3 align="center">💻 Programlama Dilleri</h3>
+<h3 align="center">💻 PROGRAMLAMA DİLLERİ</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -24,7 +24,7 @@ Full-stack geliştirme, Discord botları ve masaüstü uygulamaları gibi alanla
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-<h3 align="center">📦 Kullandığım Modüller & Teknolojiler</h3>
+<h3 align="center">📦 KULLANDIĞIM MODÜLLER & TEKNOLOJİLER</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -35,26 +35,26 @@ Full-stack geliştirme, Discord botları ve masaüstü uygulamaları gibi alanla
 
 ---
 
-<h2 align="center">📌 Üzerinde Çalıştığım Projeler</h2>
+<h2 align="center">📌 ÜZERİNDE ÇALIŞTIĞIM PROJELER</h2>
 
 <p align="center">
-🔹 <strong><a href="#">UcuzHesabım</a></strong><br>
+<strong>🔹 <a href="#">UCUZHESABIM</a></strong><br>
 Bir satış platformu. Kullanıcıların uygun fiyatlı hesaplar alıp satmasına olanak tanır.
 </p>
 
 <p align="center">
-🔹 <strong><a href="#">DCBB</a></strong><br>
+<strong>🔹 <a href="#">DCBB</a></strong><br>
 Kodlama bilgisi olmadan Discord botu oluşturmanı sağlayan bir platform. Sürükle-bırak mantığıyla çalışan arayüzü sayesinde herkes kendi botunu yapabilir!
 </p>
 
 <p align="center">
-🔹 <strong><a href="#">Pyte ve Uptime Bot</a></strong><br>
+<strong>🔹 <a href="#">PYTE VE UPTIME BOT</a></strong><br>
 Discord için geliştirdiğim özel botlar. Sunucuların aktif kalmasını sağlamak ve çeşitli yönetimsel işlemleri kolaylaştırmak için tasarlandılar.
 </p>
 
 ---
 
-<h2 align="center">📫 Bana Ulaşın</h2>
+<h2 align="center">📫 BANA ULAŞIN</h2>
 
 <p align="center">
 📌 <strong>Discord:</strong> <a href="#">@kullanıcıadın</a> <br>
@@ -68,7 +68,7 @@ Discord için geliştirdiğim özel botlar. Sunucuların aktif kalmasını sağl
 
 ---
 
-<h2 align="center">📊 GitHub İstatistiklerim</h2>
+<h2 align="center">📊 GITHUB İSTATİSTİKLERİM</h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ayberk-demr&theme=darcula&show_icons=true&hide_border=false&count_private=false" alt="ayberk-demr's GitHub Stats"/>
