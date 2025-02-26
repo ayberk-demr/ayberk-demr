@@ -1,0 +1,2 @@
+# readme
+Benim Hakkımda Bilgiler
