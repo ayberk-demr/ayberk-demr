@@ -39,12 +39,12 @@ Full-stack geliştirme, Discord botları ve masaüstü uygulamaları gibi alanla
 
 <h3 align="center">🔹 <a href="#">UCUZHESABIM</a></h3>
 <p align="center">
-Bir satış platformu. Kullanıcıların uygun fiyatlı hesaplar alıp satmasına olanak tanır.
+Bir satış platformu. Kullanıcıların uygun fiyatlı hesaplar, sanal ürünler, ve kodlar almasına olanak tanır.
 </p>
 
 <h3 align="center">🔹 <a href="#">DCBB</a></h3>
 <p align="center">
-Kodlama bilgisi olmadan Discord botu oluşturmanı sağlayan bir platform. Sürükle-bırak mantığıyla çalışan arayüzü sayesinde herkes kendi botunu yapabilir!
+Kodlama bilgisi olmadan Discord botu oluşturmanı sağlayan bir platform. Sadece buton tıklama mantığıyla çalışan arayüzü sayesinde herkes kendi botunu yapabilir!
 </p>
 
 <h3 align="center">🔹 <a href="#">PYTE VE UPTIME BOT</a></h3>
@@ -52,13 +52,22 @@ Kodlama bilgisi olmadan Discord botu oluşturmanı sağlayan bir platform. Sür�
 Discord için geliştirdiğim özel botlar. Sunucuların aktif kalmasını sağlamak ve çeşitli yönetimsel işlemleri kolaylaştırmak için tasarlandılar.
 </p>
 
+<h3 align="center">🤖 BOTLARIMIN EKLEME BAĞLANTILARI</h3>
+
+<p align="center">
+🔹 <a href="https://top.gg/bot/1071680522532687962">Uptime</a>  
+🔹 <a href="#">PyteBot (Top.GG'ye Eklenmedi Daha.)</a>
+</p>
+
+<h4>❗ BOTLAR YAPIM AŞAMASINDADIR PYTEBOT'A DAHA ERİŞİM YOKTUR AMA UPTIME BOTUN ÇOĞU BİTMİŞTİR.</h4>
+
 ---
 
 <h2 align="center">📫 BANA ULAŞIN</h2>
 
 <p align="center">
-📌 <strong>Discord:</strong> <a href="#">@kullanıcıadın</a> <br>
-📌 <strong>Instagram:</strong> <a href="#">@kullanıcıadın</a> <br>
+📌 <strong>Discord:</strong> <a href="https://discord.gg/jJtqR9dfxU">Sunucu</a> <br>
+📌 <strong>Instagram:</strong> <a href="https://instagram.com/1683ayberkk">@1683ayberkkn</a> <br>
 📌 <strong>X (Twitter):</strong> <a href="#">@kullanıcıadın</a>  
 </p>
 
