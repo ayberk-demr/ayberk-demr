@@ -67,8 +67,7 @@ Discord için geliştirdiğim özel botlar. Sunucuların aktif kalmasını sağl
 
 <p align="center">
 📌 <strong>Discord:</strong> <a href="https://discord.gg/jJtqR9dfxU">Sunucu</a> <br>
-📌 <strong>Instagram:</strong> <a href="https://instagram.com/1683ayberkk">@1683ayberkk</a> <br>
-📌 <strong>X (Twitter):</strong> <a href="https://x.com/1683ayberkk">@1683ayberkk</a>  
+📌 <strong>Instagram:</strong> <a href="https://instagram.com/777ayberkk">@1683ayberkk</a> <br>
 </p>
 
 <p align="center">
